@@ -1,0 +1,3 @@
+JQL = http://jira.company.com/rest/api/2/search?jql=assignee%20in%20(maheshs)
+Username = JIRAAdmin
+Password = jirapassword
